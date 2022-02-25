@@ -1,0 +1,14 @@
+* {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+}
+
+body {
+      font-family: 'IM Fell English', serif;
+      font-family: 'Xanh Mono', 'Curier New' monospace;
+      font-size:16px;
+      line-height: 1.5;
+      letter-spacing: 1px;
+      color: #222;
+}
